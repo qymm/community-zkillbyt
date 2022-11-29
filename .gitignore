@@ -25,3 +25,7 @@ BUILD.bazel
 # Pixlet
 *.webp
 *.gif
+
+# qymm
+*.bat
+*.vbs
